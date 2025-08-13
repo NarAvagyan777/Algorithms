@@ -1,0 +1,14 @@
+/home/narek/Desktop/Algoritm/AVL/bin/Debug/net8.0/AVL
+/home/narek/Desktop/Algoritm/AVL/bin/Debug/net8.0/AVL.deps.json
+/home/narek/Desktop/Algoritm/AVL/bin/Debug/net8.0/AVL.runtimeconfig.json
+/home/narek/Desktop/Algoritm/AVL/bin/Debug/net8.0/AVL.dll
+/home/narek/Desktop/Algoritm/AVL/bin/Debug/net8.0/AVL.pdb
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/AVL.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/AVL.AssemblyInfoInputs.cache
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/AVL.AssemblyInfo.cs
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/AVL.csproj.CoreCompileInputs.cache
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/AVL.dll
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/refint/AVL.dll
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/AVL.pdb
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/AVL.genruntimeconfig.cache
+/home/narek/Desktop/Algoritm/AVL/obj/Debug/net8.0/ref/AVL.dll
