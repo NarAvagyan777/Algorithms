@@ -1,0 +1,14 @@
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/Insection_Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/Insection_Sort.AssemblyInfoInputs.cache
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/Insection_Sort.AssemblyInfo.cs
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/Insection_Sort.csproj.CoreCompileInputs.cache
+/home/narek/Desktop/Algoritm/Insection_Sort/bin/Debug/net8.0/Insection_Sort
+/home/narek/Desktop/Algoritm/Insection_Sort/bin/Debug/net8.0/Insection_Sort.deps.json
+/home/narek/Desktop/Algoritm/Insection_Sort/bin/Debug/net8.0/Insection_Sort.runtimeconfig.json
+/home/narek/Desktop/Algoritm/Insection_Sort/bin/Debug/net8.0/Insection_Sort.dll
+/home/narek/Desktop/Algoritm/Insection_Sort/bin/Debug/net8.0/Insection_Sort.pdb
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/Insection_Sort.dll
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/refint/Insection_Sort.dll
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/Insection_Sort.pdb
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/Insection_Sort.genruntimeconfig.cache
+/home/narek/Desktop/Algoritm/Insection_Sort/obj/Debug/net8.0/ref/Insection_Sort.dll
